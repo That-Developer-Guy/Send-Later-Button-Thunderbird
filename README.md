@@ -1,2 +1,3 @@
-# Send-Later-Button-Thunderbird
-Source Code of Thunderbird Send Later Button Extension
+# Send Later Button Extension Thunderbird
+
+### This contains the source Code of the Extension for each Version
