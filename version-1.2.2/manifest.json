@@ -1,0 +1,31 @@
+{
+    "manifest_version": 2,
+    "name": "Send Later Button",
+    "description": "The Send Later Button extension enhances your Thunderbird experience by adding the 'Send Later' functionality even in online mode. It supports English and German languages, ensuring a seamless experience for users of both Languages.",
+    "version": "1.2.2",
+    "author": "That Developer Guy",
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "send_later123@extension.com",
+            "strict_min_version": "78.0"
+        }
+    },
+    "permissions": [
+        "compose",
+        "compose.send"
+    ],
+    "compose_action": {
+        "default_label": "Send Later",
+        "default_title": "Send Later",
+        "default_icon": "send2.png"
+    },
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": true
+    },
+    "icons": {
+        "64": "send2.png",
+        "32": "send2.png",
+        "16": "send2.png"
+    }
+}
