@@ -11,4 +11,4 @@ It also has a setting in the addons options menu that gives the functionality of
 
 ### How to build
 
-If you want to build the addon you can use `utils/build_xpi.bat` on windows or `utils/build_xpi.sh` if you are on linux. This will prompt you to specify the version and the version format is like you'd expect (e.g. 1.0 or 1.2.4 etc). Then you can just press enter if you don't want to change the output path and now you have an .xpi file in the parent directory that contains the extension.
+If you want to build the addon you can use `utils/create_xpi.bat` on windows or `utils/create_xpi.sh` if you are on linux. This will prompt you to specify the version and the version format is like you'd expect (e.g. 1.0 or 1.2.4 etc). Then you can just press enter if you don't want to change the output path and now you have an .xpi file in the parent directory that contains the extension.
