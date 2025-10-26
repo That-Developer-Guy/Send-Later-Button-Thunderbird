@@ -1,0 +1,274 @@
+{
+    "en-US": {
+        "title": "Send this message later",
+        "label": "Send Later"
+    },
+    "af": {
+        "title": "Versend hierdie boodskap later",
+        "label": "Versend later"
+    },
+    "sq": {
+        "title": "Dërgojeni këtë mesazh më vonë",
+        "label": "Dërgoje Më Vonë"
+    },
+    "ar": {
+        "title": "أرسِل هذه الرسالة لاحقًا",
+        "label": "أرسِل لاحقًا"
+    },
+    "hy-AM": {
+        "title": "Նամակը հետո ուղարկել",
+        "label": "Հետո ուղարկել"
+    },
+    "ast": {
+        "title": "Unviar esti mensaxe más sero",
+        "label": "Unviar más sero"
+    },
+    "eu": {
+        "title": "Bidali mezua geroago",
+        "label": "Bidali geroago"
+    },
+    "be": {
+        "title": "Даслаць гэты ліст пазней",
+        "label": "Даслаць пазней"
+    },
+    "bn-BD": {
+        "title": "এই বার্তাটি পরে পাঠানো হবে",
+        "label": "পরে পাঠানো হবে (L)"
+    },
+    "br": {
+        "title": "Kas ar gemennadenn-mañ diwezhatoc'h",
+        "label": "Kas diwezhatoc'h"
+    },
+    "bg": {
+        "title": "Писмото ще се изпрати по-късно",
+        "label": "Изпращане по-късно"
+    },
+    "ca": {
+        "title": "Envia aquest missatge més tard",
+        "label": "Envia'l més tard"
+    },
+    "ca-valencia": {
+        "title": "Envia este missatge més tard",
+        "label": "Envia'l més tard"
+    },
+    "zh-CN": {
+        "title": "以后发送此消息",
+        "label": "以后发送"
+    },
+    "zh-TW": {
+        "title": "稍後再寄出此封郵件",
+        "label": "稍候再寄"
+    },
+    "hr": {
+        "title": "Pošalji poruku kasnije",
+        "label": "Pošalji kasnije"
+    },
+    "cs": {
+        "title": "Odešle tuto zprávu později",
+        "label": "Odeslat později"
+    },
+    "da": {
+        "title": "Send denne meddelelse senere",
+        "label": "Send senere"
+    },
+    "nl": {
+        "title": "Dit bericht later verzenden",
+        "label": "Later verzenden"
+    },
+    "en-GB": {
+        "title": "Send this message later",
+        "label": "Send Later"
+    },
+    "en-CA": {
+        "title": "Send this message later",
+        "label": "Send Later"
+    },
+    "et": {
+        "title": "Saada kiri hiljem",
+        "label": "Saada hiljem"
+    },
+    "et-EE": {
+        "title": "Saada kiri hiljem",
+        "label": "Saada hiljem"
+    },
+    "fi": {
+        "title": "Lähetä tämä viesti myöhemmin",
+        "label": "Lähetä myöhemmin"
+    },
+    "fr": {
+        "title": "Envoyer ce message plus tard",
+        "label": "Envoyer plus tard"
+    },
+    "fy-NL": {
+        "title": "Dit berjocht letter ferstjoere",
+        "label": "Letter ferstjoere"
+    },
+    "gd": {
+        "title": "Cuir an teachdaireachd seo uaireigin eile",
+        "label": "Cuir uaireigin eile"
+    },
+    "gl": {
+        "title": "Enviar esta mensaxe máis tarde",
+        "label": "Enviar máis tarde"
+    },
+    "ka": {
+        "title": "წერილის მოგვიანებით გაგზავნა",
+        "label": "გაგზავნა მოგვიანებით"
+    },
+    "de": {
+        "title": "Die Nachricht wird in den Postausgang gelegt",
+        "label": "Später senden"
+    },
+    "el": {
+        "title": "Αποστολή μηνύματος αργότερα",
+        "label": "Αποστολή αργότερα"
+    },
+    "he": {
+        "title": "שלח הודעה זו מאוחר יותר",
+        "label": "שלח מאוחר יותר"
+    },
+    "hu": {
+        "title": "Üzenet elküldése később",
+        "label": "Küldés később"
+    },
+    "is": {
+        "title": "Senda þennan póst seinna",
+        "label": "Senda síðar"
+    },
+    "id": {
+        "title": "Kirim pesan ini nanti",
+        "label": "Kirim Nanti"
+    },
+    "ga-IE": {
+        "title": "Seol an teachtaireacht seo níos déanaí",
+        "label": "Seol Níos Déanaí"
+    },
+    "it": {
+        "title": "invia più tardi",
+        "label": "Invia dopo"
+    },
+    "ja": {
+        "title": "このメッセージを後で送信します",
+        "label": "後で送信"
+    },
+    "kab": {
+        "title": "Azen izen-agi ticki",
+        "label": "Azen ticki"
+    },
+    "cak": {
+        "title": "Titaq re rutzijol re' b'a' chik na",
+        "label": "Titaq Na"
+    },
+    "kk": {
+        "title": "Бұл хабарламаны кейін жіберу",
+        "label": "Кейін жіберу"
+    },
+    "ko": {
+        "title": "나중에 보내기",
+        "label": "나중에 보내기"
+    },
+    "lt": {
+        "title": "Išsiųsti laišką vėliau",
+        "label": "Išsiųsti vėliau"
+    },
+    "dsb": {
+        "title": "Toś tu powěsć pózdźej wótpósłaś",
+        "label": "Pózdźej pósłaś"
+    },
+    "ms": {
+        "title": "Hantar mesej ini kemudian",
+        "label": "Hantar Kemudian"
+    },
+    "nb-NO": {
+        "title": "Send meldingen senere",
+        "label": "Send senere"
+    },
+    "nn-NO": {
+        "title": "Send meldinga seinare",
+        "label": "Send seinare"
+    },
+    "fa": {
+        "title": "Send this message later",
+        "label": "Send Later"
+    },
+    "pl": {
+        "title": "Wyślij tę wiadomość później",
+        "label": "Wyślij później"
+    },
+    "pt-BR": {
+        "title": "Enviar esta mensagem mais tarde",
+        "label": "Enviar mais tarde"
+    },
+    "pt-PT": {
+        "title": "Enviar esta mensagem mais tarde",
+        "label": "Enviar mais tarde"
+    },
+    "pa-IN": {
+        "title": "ਇਹ ਸੁਨੇਹਾ ਬਾਅਦ ਵਿੱਚ ਭੇਜੋ",
+        "label": "ਬਾਅਦ 'ਚ ਭੇਜੋ"
+    },
+    "ro": {
+        "title": "Trimite acest mesaj mai târziu",
+        "label": "Trimite mai târziu"
+    },
+    "ru": {
+        "title": "Отправить это сообщение позже",
+        "label": "Отправить позже"
+    },
+    "sr": {
+        "title": "Пошаљи ову поруку касније",
+        "label": "Пошаљи касније"
+    },
+    "si": {
+        "title": "මෙම ලිපිය පසුව යැවීමට",
+        "label": "පසුව යවන්න"
+    },
+    "sk": {
+        "title": "Odoslať túto správu neskôr",
+        "label": "Odoslať neskôr"
+    },
+    "sl": {
+        "title": "Pošlji to sporočilo kasneje",
+        "label": "Pošlji kasneje"
+    },
+    "es-AR": {
+        "title": "Enviar este mensaje más tarde",
+        "label": "Enviar más tarde"
+    },
+    "es-ES": {
+        "title": "Enviar este mensaje más tarde",
+        "label": "Enviar más tarde"
+    },
+    "sv-SE": {
+        "title": "Skickar meddelandet senare",
+        "label": "Skicka senare"
+    },
+    "th": {
+        "title": "ส่งข้อความนี้ในภายหลัง",
+        "label": "ส่งภายหลัง"
+    },
+    "tr": {
+        "title": "Bu iletiyi daha sonra gönder",
+        "label": "Daha sonra gönder"
+    },
+    "uk": {
+        "title": "Надіслати це повідомлення пізніше",
+        "label": "Надіслати пізніше"
+    },
+    "hsb": {
+        "title": "Tutu powěsć pozdźišo pósłać",
+        "label": "Pozdźišo pósłać"
+    },
+    "uz": {
+        "title": "Bu xabarni keyinroq jo‘natish",
+        "label": "Keyinroq joʻnatish"
+    },
+    "vi": {
+        "title": "Gửi thư này sau",
+        "label": "Gửi sau"
+    },
+    "cy": {
+        "title": "Anfonwch y neges yn ddiweddarach",
+        "label": "Anfon yn Diweddarach"
+    }
+}
